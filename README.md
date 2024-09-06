@@ -8,5 +8,6 @@
 |[@JinhoBa](https://github.com/JinhoBa)|[@Songgihyeon](https://github.com/Songgihyeon)|[@Jihyun](https://github.com/Jihyun0126)|||
 ## 📐 언어, 라이브러리
 ----
-- C#
-- 유니티
+- ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+- ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
