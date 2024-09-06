@@ -6,7 +6,7 @@
 |------|-----|------|---|------|
 |UI, 감독|맵, 보스|무기|공란|공란|
 |[@JinhoBa](https://github.com/JinhoBa)|[@Songgihyeon](https://github.com/Songgihyeon)|[@Jihyun](https://github.com/Jihyun0126)|||
-## 📐 언어, 라이브러리
+## 📐 Stacks
 ----
 ### **Environment**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
