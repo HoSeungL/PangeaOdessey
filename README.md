@@ -5,7 +5,7 @@
 |**배진호**|**송기현**|**유지현**|**성수**|**이호승**|
 |------|-----|------|---|------|
 |UI, 감독|맵, 보스|무기|역할|역할|
-|[@JinhoBa](https://github.com/JinhoBa)|[@Songgihyeon](https://github.com/Songgihyeon)|[@Jihyun](https://github.com/Jihyun0126)|[@Ksungs](https://github.com/Ksungs)||
+|[@JinhoBa](https://github.com/JinhoBa)|[@Songgihyeon](https://github.com/Songgihyeon)|[@Jihyun](https://github.com/Jihyun0126)|[@Ksungs](https://github.com/Ksungs)|[@Hoseung](https://github.com/HoSeungL)|
 
 ## 📐 Stacks
 
